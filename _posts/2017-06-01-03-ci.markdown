@@ -1,9 +1,14 @@
 ---
+title: First Step, CI
+date: 2017-06-01 12:41:17 Z
+categories:
+- ci
+- jekyll
+- netlify
+- cms
 layout: post
-title: "First Step, CI" 
-date:   2017-06-01 14:41:17 +0200
-categories: ci jekyll netlify cms  
 ---
+
 My first task is to figure out how do some continuous integration and I guess for this, I'll have to migrate to netlify and integrate using Netlify CMS.
 
 Update: let's see if the this update appears live once I push to github
